@@ -14,7 +14,7 @@ pipeline {
             
             steps {
                 sh '''echo Bye World'''
-                sh '''sleep 5'''
+                sh '''sleep 4'''
             }
         }
     }
